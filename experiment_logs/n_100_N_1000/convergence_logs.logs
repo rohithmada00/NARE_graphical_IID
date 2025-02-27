@@ -1,0 +1,220 @@
+Evaluating metrics for {'lambda_values': [0.1, 0.1473684210526316, 0.19473684210526315, 0.24210526315789474, 0.2894736842105263, 0.33684210526315794, 0.38421052631578945, 0.43157894736842106, 0.4789473684210527, 0.5263157894736842, 0.5736842105263158, 0.6210526315789474, 0.6684210526315789, 0.7157894736842105, 0.7631578947368421, 0.8105263157894737, 0.8578947368421053, 0.9052631578947369, 0.9526315789473684, 1.0], 'n': 100, 'N': 1000, 'alpha': 0.0, 'rho': 1.0, 'max_iter': 100, 'tol': 0.0001, 'threshold': 0.0001, 'log_dir': 'experiment_logs/n_100_N_1000/alpha_0.000'}
+Minimum eigenvalue: 2.0666132215722934e-08
+Converged after 47 iterations.
+Converged after 59 iterations.
+Converged after 71 iterations.
+Converged after 80 iterations.
+Converged after 88 iterations.
+Converged after 95 iterations.
+Converged after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Evaluating metrics for {'lambda_values': [0.1, 0.1473684210526316, 0.19473684210526315, 0.24210526315789474, 0.2894736842105263, 0.33684210526315794, 0.38421052631578945, 0.43157894736842106, 0.4789473684210527, 0.5263157894736842, 0.5736842105263158, 0.6210526315789474, 0.6684210526315789, 0.7157894736842105, 0.7631578947368421, 0.8105263157894737, 0.8578947368421053, 0.9052631578947369, 0.9526315789473684, 1.0], 'n': 100, 'N': 1000, 'alpha': 0.1111111111111111, 'rho': 1.0, 'max_iter': 100, 'tol': 0.0001, 'threshold': 0.0001, 'log_dir': 'experiment_logs/n_100_N_1000/alpha_0.111'}
+Minimum eigenvalue: 1.9924356590747785e-09
+Converged after 46 iterations.
+Converged after 57 iterations.
+Converged after 68 iterations.
+Converged after 76 iterations.
+Converged after 84 iterations.
+Converged after 91 iterations.
+Converged after 96 iterations.
+Converged after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Evaluating metrics for {'lambda_values': [0.1, 0.1473684210526316, 0.19473684210526315, 0.24210526315789474, 0.2894736842105263, 0.33684210526315794, 0.38421052631578945, 0.43157894736842106, 0.4789473684210527, 0.5263157894736842, 0.5736842105263158, 0.6210526315789474, 0.6684210526315789, 0.7157894736842105, 0.7631578947368421, 0.8105263157894737, 0.8578947368421053, 0.9052631578947369, 0.9526315789473684, 1.0], 'n': 100, 'N': 1000, 'alpha': 0.2222222222222222, 'rho': 1.0, 'max_iter': 100, 'tol': 0.0001, 'threshold': 0.0001, 'log_dir': 'experiment_logs/n_100_N_1000/alpha_0.222'}
+Minimum eigenvalue: 7.69844205270273e-09
+Converged after 48 iterations.
+Converged after 56 iterations.
+Converged after 68 iterations.
+Converged after 76 iterations.
+Converged after 84 iterations.
+Converged after 91 iterations.
+Converged after 96 iterations.
+Converged after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Evaluating metrics for {'lambda_values': [0.1, 0.1473684210526316, 0.19473684210526315, 0.24210526315789474, 0.2894736842105263, 0.33684210526315794, 0.38421052631578945, 0.43157894736842106, 0.4789473684210527, 0.5263157894736842, 0.5736842105263158, 0.6210526315789474, 0.6684210526315789, 0.7157894736842105, 0.7631578947368421, 0.8105263157894737, 0.8578947368421053, 0.9052631578947369, 0.9526315789473684, 1.0], 'n': 100, 'N': 1000, 'alpha': 0.3333333333333333, 'rho': 1.0, 'max_iter': 100, 'tol': 0.0001, 'threshold': 0.0001, 'log_dir': 'experiment_logs/n_100_N_1000/alpha_0.333'}
+Minimum eigenvalue: 4.57571705393848e-08
+Converged after 45 iterations.
+Converged after 58 iterations.
+Converged after 69 iterations.
+Converged after 78 iterations.
+Converged after 87 iterations.
+Converged after 95 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Evaluating metrics for {'lambda_values': [0.1, 0.1473684210526316, 0.19473684210526315, 0.24210526315789474, 0.2894736842105263, 0.33684210526315794, 0.38421052631578945, 0.43157894736842106, 0.4789473684210527, 0.5263157894736842, 0.5736842105263158, 0.6210526315789474, 0.6684210526315789, 0.7157894736842105, 0.7631578947368421, 0.8105263157894737, 0.8578947368421053, 0.9052631578947369, 0.9526315789473684, 1.0], 'n': 100, 'N': 1000, 'alpha': 0.4444444444444444, 'rho': 1.0, 'max_iter': 100, 'tol': 0.0001, 'threshold': 0.0001, 'log_dir': 'experiment_logs/n_100_N_1000/alpha_0.444'}
+Minimum eigenvalue: 6.371051600678179e-09
+Converged after 45 iterations.
+Converged after 58 iterations.
+Converged after 68 iterations.
+Converged after 77 iterations.
+Converged after 84 iterations.
+Converged after 91 iterations.
+Converged after 95 iterations.
+Converged after 98 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Evaluating metrics for {'lambda_values': [0.1, 0.1473684210526316, 0.19473684210526315, 0.24210526315789474, 0.2894736842105263, 0.33684210526315794, 0.38421052631578945, 0.43157894736842106, 0.4789473684210527, 0.5263157894736842, 0.5736842105263158, 0.6210526315789474, 0.6684210526315789, 0.7157894736842105, 0.7631578947368421, 0.8105263157894737, 0.8578947368421053, 0.9052631578947369, 0.9526315789473684, 1.0], 'n': 100, 'N': 1000, 'alpha': 0.5555555555555556, 'rho': 1.0, 'max_iter': 100, 'tol': 0.0001, 'threshold': 0.0001, 'log_dir': 'experiment_logs/n_100_N_1000/alpha_0.556'}
+Minimum eigenvalue: 1.4497870171005465e-08
+Converged after 45 iterations.
+Converged after 58 iterations.
+Converged after 68 iterations.
+Converged after 77 iterations.
+Converged after 85 iterations.
+Converged after 92 iterations.
+Converged after 97 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Evaluating metrics for {'lambda_values': [0.1, 0.1473684210526316, 0.19473684210526315, 0.24210526315789474, 0.2894736842105263, 0.33684210526315794, 0.38421052631578945, 0.43157894736842106, 0.4789473684210527, 0.5263157894736842, 0.5736842105263158, 0.6210526315789474, 0.6684210526315789, 0.7157894736842105, 0.7631578947368421, 0.8105263157894737, 0.8578947368421053, 0.9052631578947369, 0.9526315789473684, 1.0], 'n': 100, 'N': 1000, 'alpha': 0.6666666666666666, 'rho': 1.0, 'max_iter': 100, 'tol': 0.0001, 'threshold': 0.0001, 'log_dir': 'experiment_logs/n_100_N_1000/alpha_0.667'}
+Minimum eigenvalue: 2.752882644997984e-08
+Converged after 46 iterations.
+Converged after 59 iterations.
+Converged after 68 iterations.
+Converged after 76 iterations.
+Converged after 83 iterations.
+Converged after 90 iterations.
+Converged after 96 iterations.
+Converged after 99 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Evaluating metrics for {'lambda_values': [0.1, 0.1473684210526316, 0.19473684210526315, 0.24210526315789474, 0.2894736842105263, 0.33684210526315794, 0.38421052631578945, 0.43157894736842106, 0.4789473684210527, 0.5263157894736842, 0.5736842105263158, 0.6210526315789474, 0.6684210526315789, 0.7157894736842105, 0.7631578947368421, 0.8105263157894737, 0.8578947368421053, 0.9052631578947369, 0.9526315789473684, 1.0], 'n': 100, 'N': 1000, 'alpha': 0.7777777777777777, 'rho': 1.0, 'max_iter': 100, 'tol': 0.0001, 'threshold': 0.0001, 'log_dir': 'experiment_logs/n_100_N_1000/alpha_0.778'}
+Minimum eigenvalue: 7.57472766195576e-08
+Converged after 44 iterations.
+Converged after 57 iterations.
+Converged after 69 iterations.
+Converged after 79 iterations.
+Converged after 87 iterations.
+Converged after 96 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Evaluating metrics for {'lambda_values': [0.1, 0.1473684210526316, 0.19473684210526315, 0.24210526315789474, 0.2894736842105263, 0.33684210526315794, 0.38421052631578945, 0.43157894736842106, 0.4789473684210527, 0.5263157894736842, 0.5736842105263158, 0.6210526315789474, 0.6684210526315789, 0.7157894736842105, 0.7631578947368421, 0.8105263157894737, 0.8578947368421053, 0.9052631578947369, 0.9526315789473684, 1.0], 'n': 100, 'N': 1000, 'alpha': 0.8888888888888888, 'rho': 1.0, 'max_iter': 100, 'tol': 0.0001, 'threshold': 0.0001, 'log_dir': 'experiment_logs/n_100_N_1000/alpha_0.889'}
+Minimum eigenvalue: 5.04702509775967e-09
+Converged after 45 iterations.
+Converged after 58 iterations.
+Converged after 69 iterations.
+Converged after 76 iterations.
+Converged after 86 iterations.
+Converged after 93 iterations.
+Converged after 97 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Evaluating metrics for {'lambda_values': [0.1, 0.1473684210526316, 0.19473684210526315, 0.24210526315789474, 0.2894736842105263, 0.33684210526315794, 0.38421052631578945, 0.43157894736842106, 0.4789473684210527, 0.5263157894736842, 0.5736842105263158, 0.6210526315789474, 0.6684210526315789, 0.7157894736842105, 0.7631578947368421, 0.8105263157894737, 0.8578947368421053, 0.9052631578947369, 0.9526315789473684, 1.0], 'n': 100, 'N': 1000, 'alpha': 1.0, 'rho': 1.0, 'max_iter': 100, 'tol': 0.0001, 'threshold': 0.0001, 'log_dir': 'experiment_logs/n_100_N_1000/alpha_1.000'}
+Minimum eigenvalue: 2.815656100065841e-09
+Converged after 47 iterations.
+Converged after 58 iterations.
+Converged after 67 iterations.
+Converged after 76 iterations.
+Converged after 84 iterations.
+Converged after 92 iterations.
+Converged after 97 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
+Failed to converge after 100 iterations.
