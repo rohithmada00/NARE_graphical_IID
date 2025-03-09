@@ -1,0 +1,7 @@
+1. Check the effect of changing lambda fixing threshold
+2. Effect of changing threshold fixing lambda
+3. Effect of scaling Btrue
+4. Effect of increasing diagonals from tri-diagonals
+5. Oscillation in NARE error - what does this mean
+6. Effect of adding too much or too low diagonal constant; when Btrue has a negative eigen value
+7. Reason for patches 
