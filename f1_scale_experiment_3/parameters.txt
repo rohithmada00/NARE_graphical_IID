@@ -1,0 +1,6 @@
+        best_lambda=0.231,
+        rho=2.0,
+        max_iter=200,
+        tol=1e-4,
+        threshold=0.1,
+        scaling_values=np.linspace(1, 10, 20), 
