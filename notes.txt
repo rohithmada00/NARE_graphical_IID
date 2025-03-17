@@ -5,3 +5,5 @@
 5. Oscillation in NARE error - what does this mean
 6. Effect of adding too much or too low diagonal constant; when Btrue has a negative eigen value
 7. Reason for patches 
+
+Deleted all the previous results - check previous commit for them
