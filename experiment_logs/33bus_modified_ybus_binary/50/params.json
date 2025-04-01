@@ -1173,6 +1173,6 @@
     "max_iter": 200,
     "tol": 0.0001,
     "threshold": 0.1,
-    "log_dir": "experiment_logs/33bus_modified_ybus/50",
+    "log_dir": "experiment_logs/33bus_modified_ybus_binary/50",
     "save_plots": true
 }
