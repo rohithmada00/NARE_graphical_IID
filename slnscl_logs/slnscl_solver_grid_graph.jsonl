@@ -1,0 +1,10 @@
+{"trial": -1, "status": "optimal", "lambda": 0.0, "objective_value": 5.719220325735353, "solve_time": 0.8255897, "num_iters": 275, "solver": "SCS", "setup_time": 0.0386084}
+{"trial": -1, "status": "optimal", "lambda": 0.08888888888888889, "objective_value": 20.065234081093045, "solve_time": 0.692489, "num_iters": 275, "solver": "SCS", "setup_time": 0.014156}
+{"trial": -1, "status": "optimal", "lambda": 0.17777777777777778, "objective_value": 28.887845715117944, "solve_time": 0.6927662, "num_iters": 275, "solver": "SCS", "setup_time": 0.0143951}
+{"trial": -1, "status": "optimal", "lambda": 0.26666666666666666, "objective_value": 35.9800333918872, "solve_time": 0.6850784, "num_iters": 275, "solver": "SCS", "setup_time": 0.0135897}
+{"trial": -1, "status": "optimal", "lambda": 0.35555555555555557, "objective_value": 42.16912151111605, "solve_time": 0.6592763, "num_iters": 275, "solver": "SCS", "setup_time": 0.013442500000000001}
+{"trial": -1, "status": "optimal", "lambda": 0.4444444444444445, "objective_value": 47.73304531033565, "solve_time": 0.6186858, "num_iters": 250, "solver": "SCS", "setup_time": 0.0147357}
+{"trial": -1, "status": "optimal", "lambda": 0.5333333333333333, "objective_value": 52.786280282345274, "solve_time": 0.5997512, "num_iters": 250, "solver": "SCS", "setup_time": 0.0135413}
+{"trial": -1, "status": "optimal", "lambda": 0.6222222222222222, "objective_value": 57.41801350809824, "solve_time": 0.6087236, "num_iters": 250, "solver": "SCS", "setup_time": 0.0137255}
+{"trial": -1, "status": "optimal", "lambda": 0.7111111111111111, "objective_value": 61.678845673940025, "solve_time": 0.7779936000000001, "num_iters": 325, "solver": "SCS", "setup_time": 0.0138873}
+{"trial": -1, "status": "optimal", "lambda": 0.8, "objective_value": 65.59009262007211, "solve_time": 0.7174267999999999, "num_iters": 300, "solver": "SCS", "setup_time": 0.0137194}

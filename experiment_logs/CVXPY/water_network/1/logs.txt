@@ -1,0 +1,12 @@
+CVXPY estimation time for lambda: 0.0 is 290.8313 seconds
+CVXPY estimation time for lambda: 0.1111111111111111 is 98.2160 seconds
+CVXPY estimation time for lambda: 0.2222222222222222 is 85.8373 seconds
+CVXPY estimation time for lambda: 0.3333333333333333 is 89.3640 seconds
+CVXPY estimation time for lambda: 0.4444444444444444 is 124.7221 seconds
+CVXPY estimation time for lambda: 0.5555555555555556 is 120.5478 seconds
+CVXPY estimation time for lambda: 0.6666666666666666 is 122.1572 seconds
+CVXPY estimation time for lambda: 0.7777777777777777 is 121.7212 seconds
+CVXPY estimation time for lambda: 0.8888888888888888 is 121.0968 seconds
+CVXPY estimation time for lambda: 1.0 is 124.3650 seconds
+Best f1 scores = 0.9490445859872612
+Best lambda by f1 = 0.222

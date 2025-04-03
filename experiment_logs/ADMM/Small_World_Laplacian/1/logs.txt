@@ -1,0 +1,60 @@
+# Updated main loop
+sample_scaling = 1
+matrix_type = MatrixType.SMALL_WORLD
+method = "ADMM"
+# method = "CVXPY"
+B = load_B(matrix_type)
+print(f'Is B pd: {np.min(np.linalg.eigvals(B))>0}')
+
+log_dir = f"experiment_logs/{method}/{matrix_type._value_}/{sample_scaling}"
+# Create a directory to save logs if it doesn’t exist
+os.makedirs(log_dir, exist_ok=True)
+
+# params
+args = {
+    "lambda_values": np.linspace(0,0.8, 10).tolist(),
+    "B": B.tolist(),
+    "sample_scaling": sample_scaling,
+    "rho": 1.0,
+    "max_iter": 200,
+    "tol": 1e-4,
+    "threshold": 1e-1,
+    "log_dir": log_dir, 
+    "save_plots": True,
+    "method": method
+}
+print(f"Evaluating metrics for {args}")
+
+# Save args to a JSON file (for reproducibility)
+json_path = os.path.join(log_dir, "params.json")
+with open(json_path, "w") as json_file:
+    json.dump(args, json_file, indent=4)
+
+# Call our updated evaluate_metrics_vs_lambda
+metrics = evaluate_f1_vs_lambda(**args)
+
+# Convert metrics to a DataFrame
+metrics_df = pd.DataFrame(metrics)
+
+# Save metrics to CSV or Excel
+csv_path = os.path.join(log_dir, "metrics.csv")
+metrics_df.to_csv(csv_path, index=False)
+
+# Pick best lambda by F1
+best_idx = metrics_df["f1"].idxmax()
+best_f1 = metrics_df["f1"].max()
+best_lambda = metrics_df.loc[best_idx, "lambda"]
+print(f"Best f1 scores = {best_f1}")
+print(f"Best lambda by f1 = {best_lambda:.3f}")
+
+# Plot all metrics vs. lambda
+plt.figure(figsize=(8, 6))
+plt.plot(metrics_df["lambda"], metrics_df["f1"])
+
+plt.xlabel("Lambda")
+plt.ylabel("F1 score")
+plt.title("Metrics vs. F1")
+plt.legend()
+plot_path = os.path.join(log_dir, "f1_vs_lambda.png")
+plt.savefig(plot_path)
+plt.close()
